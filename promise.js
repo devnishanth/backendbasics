@@ -1,7 +1,7 @@
 const promise = new Promise((resolved, rejected) =>{
 
 	if (true){
-		resolved('Hii');
+		 resolved('Hii');
 	}
 	else{
 		rejected('Hello');
